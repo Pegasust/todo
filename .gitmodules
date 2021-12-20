@@ -1,0 +1,6 @@
+[submodule "todo-automation"]
+	path = todo-automation
+	url = https://github.com/Pegasust/todo-automation.git
+[submodule "todo-main"]
+	path = todo-main
+	url = https://github.com/Pegasust/todo-main.git
